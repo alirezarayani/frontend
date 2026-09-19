@@ -1,0 +1,10 @@
+{
+  "name": "sidebar-layout",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/shared/layout/sidebar-layout/src",
+  "prefix": "lib",
+  "tags": [],
+  "projectType": "library",
+  "// targets": "to see all targets run: nx show project sidebar-layout --web",
+  "targets": {}
+}

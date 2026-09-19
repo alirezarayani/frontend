@@ -23,6 +23,12 @@
       ],
       "@frontend-new/models": [
         "./libs/models/src/index.ts"
+      ],
+      "@frontend-new/ui": [
+        "./libs/shared/ui/src/index.ts"
+      ],
+      "@frontend-new/sidebar-layout": [
+        "./libs/shared/layout/sidebar-layout/src/index.ts"
       ]
     }
   },
